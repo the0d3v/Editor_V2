@@ -1,0 +1,13 @@
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.vbprojResolveAssemblyReference.cache
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.Resources.resources
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.vbproj.GenerateResource.Cache
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.vbproj.CoreCompileInputs.cache
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\bin\Debug\Editor_V2.exe.config
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\bin\Debug\Editor_V2.exe
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\bin\Debug\Editor_V2.pdb
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\bin\Debug\Editor_V2.xml
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.exe
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.xml
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.pdb
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\obj\Debug\Editor_V2.editor_form.resources
+C:\Users\Théo\source\repos\Editor_V2\Editor_V2\bin\Debug\FastColoredTextBox.dll
